@@ -5,5 +5,5 @@
 4 add .. commit .. push
 
 
-5 pull ... reset ... checkout
+5 pull ... checkout
 6 try
