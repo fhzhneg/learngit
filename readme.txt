@@ -6,3 +6,4 @@
 
 
 5 pull ... reset ... checkout
+6 try
